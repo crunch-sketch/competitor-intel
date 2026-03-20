@@ -90,7 +90,7 @@
 **方式 A：使用 git clone（推荐）**
 
 ```bash
-git clone https://github.com/你的用户名/competitor-intel.git
+git clone https://github.com/WwaitW/competitor-intel.git
 cd competitor-intel
 ```
 
